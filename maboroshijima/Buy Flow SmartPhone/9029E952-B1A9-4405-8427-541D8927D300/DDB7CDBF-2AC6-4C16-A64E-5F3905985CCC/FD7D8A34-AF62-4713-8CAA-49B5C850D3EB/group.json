@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FD7D8A34-AF62-4713-8CAA-49B5C850D3EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7CFF4138-FA83-4ACB-A99E-8DF401E7A8B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E03686AC-9CDC-4885-9466-989E142005E7",
+    "height": 41,
+    "width": 59,
+    "x": 16,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "40A259B2-E7EF-4C53-81B5-985FAE6FD1C8"
+    },
+    {
+      "class": "group",
+      "id": "7A39690B-1B7D-427A-B3C1-BB24297C3AF8"
+    }
+  ],
+  "name": "JCB ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB0F3C64-F939-47D2-86D8-A8672320E8AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

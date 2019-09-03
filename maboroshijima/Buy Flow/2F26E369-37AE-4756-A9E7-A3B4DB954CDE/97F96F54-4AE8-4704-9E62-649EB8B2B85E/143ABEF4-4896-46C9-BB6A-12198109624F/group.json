@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "143ABEF4-4896-46C9-BB6A-12198109624F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "261AE9C7-249C-49A3-BF06-2EF7A931293D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "914AFE0E-64E4-4CF2-8FD8-3FAE630D83B8",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DEB1896B-18E4-4FBE-8044-3C9A4CE3F24F"
+    },
+    {
+      "class": "rectangle",
+      "id": "2CD57776-A9B1-480B-B451-1C831BC2A16B"
+    }
+  ],
+  "name": "Radiobutton / Secondary / Active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53AC3A4B-72EF-47D7-8180-40D9ED632D94",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

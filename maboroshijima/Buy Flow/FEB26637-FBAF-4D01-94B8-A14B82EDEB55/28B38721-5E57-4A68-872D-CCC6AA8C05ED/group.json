@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "28B38721-5E57-4A68-872D-CCC6AA8C05ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 642,
+    "x": 773,
+    "y": 143
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "60EE0C6E-0351-4686-B0FD-033763971C32"
+    },
+    {
+      "class": "shapePath",
+      "id": "0CA98D14-9A00-4B95-B692-D7EE9A757330"
+    },
+    {
+      "class": "text",
+      "id": "05BC322A-5DA8-4C76-A915-4D8C52E1A23E"
+    },
+    {
+      "class": "text",
+      "id": "4D50EA60-200C-49BF-AF2F-368F5893BEE4"
+    }
+  ],
+  "name": "登録カード",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

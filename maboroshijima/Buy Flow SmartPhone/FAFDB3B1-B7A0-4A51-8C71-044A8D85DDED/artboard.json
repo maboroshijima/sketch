@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FAFDB3B1-B7A0-4A51-8C71-044A8D85DDED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 896,
+    "width": 414,
+    "x": 2363,
+    "y": -449
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "09AAB4CD-5CB0-4A76-9851-73D98136561E"
+    },
+    {
+      "class": "text",
+      "id": "0682F4EE-67BB-4362-8AAE-2F9ACA7878EA"
+    },
+    {
+      "class": "text",
+      "id": "972002E9-B3A4-4F5D-8857-0F237C284F03"
+    },
+    {
+      "class": "text",
+      "id": "396D87BF-52A7-4321-BEA0-6FBCD05B3716"
+    },
+    {
+      "class": "text",
+      "id": "9A35917C-3E41-4866-BDB9-73E73485E60A"
+    },
+    {
+      "class": "text",
+      "id": "9C848E37-CCA0-4511-83A7-E612AAF5CA00"
+    },
+    {
+      "class": "group",
+      "id": "80B92286-A61E-4C46-82F1-AA1B246585E0"
+    },
+    {
+      "class": "text",
+      "id": "5369E01F-06C2-420D-BF2C-F54C627EBADF"
+    },
+    {
+      "class": "text",
+      "id": "D3360068-BEDA-4B65-9E19-B8F6C0783D7B"
+    },
+    {
+      "class": "text",
+      "id": "2DB3B846-07A9-407F-AC05-DF41C03E1B6B"
+    }
+  ],
+  "name": "iPhone XR Copy 5",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 896,
+    "name": "iPhone XR",
+    "offersLandscapeVariant": 1,
+    "width": 414
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

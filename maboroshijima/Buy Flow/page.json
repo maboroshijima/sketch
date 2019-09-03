@@ -1,0 +1,80 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3BB26986-CED8-4C5D-9524-8899A861BBA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB3CAF26-CDA2-4C20-9F51-B843786B2E0B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E873D69E-B70A-459B-B187-6227152A7A03",
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "52A052AD-DEE4-4688-A5F7-C8862CD10F46",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "71B46BD9-FB0C-44C2-AAA4-1F30FAF76B53"
+    },
+    {
+      "class": "artboard",
+      "id": "FEB26637-FBAF-4D01-94B8-A14B82EDEB55"
+    },
+    {
+      "class": "artboard",
+      "id": "2F26E369-37AE-4756-A9E7-A3B4DB954CDE"
+    },
+    {
+      "class": "artboard",
+      "id": "19659BDB-C76D-4143-AC12-B06DBE30DBFE"
+    }
+  ],
+  "name": "Buy Flow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE4F3C49-EBFA-4A1D-B310-8DA8E0E70498",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FDA9BA91-0BF4-4746-A6D5-DA76B6B417DD",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D861FE68-6D97-4794-AC6B-87F8F441387A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82DB0178-81CC-40E6-8E91-13344D75A256",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F493CDC0-A40A-4313-B443-020C2FE5EFC7",
+    "height": 12,
+    "width": 33,
+    "x": 0,
+    "y": 5.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5CDE3FC4-8343-44A4-B145-D728F655126A"
+    },
+    {
+      "class": "shapePath",
+      "id": "B4DE0C42-69E0-495B-8A08-1953624D64FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3597B01-2259-4C24-8537-96B6F84B138C"
+    },
+    {
+      "class": "shapePath",
+      "id": "8731BCC0-44D6-4914-A18D-DA762CB43C3B"
+    },
+    {
+      "class": "shapePath",
+      "id": "437CD843-06A1-4B4F-826D-C7CBC1D5E798"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D6717B5-4430-43AE-B0D3-D67C2ED38F22"
+    },
+    {
+      "class": "shapePath",
+      "id": "C25C1474-5345-4718-B176-4E24AC620A88"
+    },
+    {
+      "class": "shapePath",
+      "id": "7DAB8E8B-B644-49E8-97BF-BF4195B4F902"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E9CE0C1-1632-4D60-A555-313955A1F98A"
+    },
+    {
+      "class": "shapePath",
+      "id": "879E632E-5706-4F6C-9A5E-475542BE8CFA"
+    },
+    {
+      "class": "shapePath",
+      "id": "31A8E0D3-167E-4FF4-942F-444CE3F09028"
+    },
+    {
+      "class": "shapePath",
+      "id": "BCB659A2-047F-49B1-A91F-C1163CA16A03"
+    },
+    {
+      "class": "shapePath",
+      "id": "6C235A7A-3C93-48A0-A9D7-B8D6B51B6691"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC263706-5405-4EE4-B19E-A0F193956381"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB2D90F3-2823-46B0-AFC8-F9E2583495B7"
+    },
+    {
+      "class": "shapePath",
+      "id": "CB30201D-A406-4B80-8032-5BF2CA9E4BD7"
+    },
+    {
+      "class": "shapePath",
+      "id": "0398C67A-B461-425C-8054-269DA0C083F0"
+    }
+  ],
+  "name": "American_Express_logo_(2018)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "68ED5625-7834-4C18-93C0-88F402CC5416",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.6586826347305389,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "B11640F9-CE71-4A33-936E-46DF117B2465",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

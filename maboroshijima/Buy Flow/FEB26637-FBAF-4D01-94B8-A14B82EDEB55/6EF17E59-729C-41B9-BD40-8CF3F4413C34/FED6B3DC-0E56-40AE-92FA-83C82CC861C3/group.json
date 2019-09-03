@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FED6B3DC-0E56-40AE-92FA-83C82CC861C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D06FF14-3A15-4B12-B21D-4DB832498D84",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "981292AB-15A5-4E35-B2DE-91B8A5DE1739",
+    "height": 46,
+    "width": 66,
+    "x": 92,
+    "y": 37
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "974018E2-5681-4C07-9F31-CADEFEF0C983"
+    },
+    {
+      "class": "group",
+      "id": "50E07412-8D3A-4557-9C09-3CDB281C6CC3"
+    }
+  ],
+  "name": "Mastercard ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D77CB76D-31EE-4266-BAC5-79D093EF2390",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

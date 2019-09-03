@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "97F96F54-4AE8-4704-9E62-649EB8B2B85E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8EB77AC7-B4D7-44FB-996C-B80772D02135",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC17F63E-413F-4F8E-8B43-9D02FFE8B0F1",
+    "height": 28,
+    "width": 572,
+    "x": 812,
+    "y": 435
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5EDE2A01-85B7-4223-B93C-12738661F778"
+    },
+    {
+      "class": "text",
+      "id": "2C288D76-8FBA-4BD2-A751-B9F61A2B8C9D"
+    },
+    {
+      "class": "text",
+      "id": "CE528C75-A1E7-40A3-B44F-3877C4C9E50E"
+    },
+    {
+      "class": "text",
+      "id": "50FC2422-DA11-400E-9FDE-1B31DDEC079F"
+    },
+    {
+      "class": "group",
+      "id": "143ABEF4-4896-46C9-BB6A-12198109624F"
+    },
+    {
+      "class": "group",
+      "id": "2FAFD83C-3DA6-498E-8299-7B1B61422935"
+    }
+  ],
+  "name": "Visa",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A8CE231-ECD7-41D2-97D4-CBF90B554083",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

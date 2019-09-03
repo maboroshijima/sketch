@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0237AA35-F22E-4F56-B137-2D33DFB84C84",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57EA3D81-86E7-45E3-8F92-F922EE79F97F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2515D8FA-E261-47DE-9678-D403B39DF766",
+    "height": 333,
+    "width": 496,
+    "x": 472,
+    "y": 473
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "261491E9-85C8-48E3-A6A6-05B2E25C5ECB"
+    },
+    {
+      "class": "text",
+      "id": "6929D1E9-B792-49FD-BDDB-5645F7D9748A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D3EEA4B-44B5-4358-94B1-CFE565C4C10D"
+    }
+  ],
+  "name": "Text area Input",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83332577-91CB-49DE-9067-72CF79B1A773",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

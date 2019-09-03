@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBEAADC0-6EBA-4885-BAA7-F9E89BB62067",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CDC59824-AA53-4739-9DBD-C985E76C9D52",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "718746AD-A0D5-4399-BF45-6D915CA7536D",
+    "height": 23,
+    "width": 33,
+    "x": 121,
+    "y": 867
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BB38FD43-9DEB-4A1B-A48C-ACA6373934C7"
+    },
+    {
+      "class": "group",
+      "id": "D861FE68-6D97-4794-AC6B-87F8F441387A"
+    }
+  ],
+  "name": "American Express ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B388444F-1B97-4454-AB4F-5CD04518A6DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

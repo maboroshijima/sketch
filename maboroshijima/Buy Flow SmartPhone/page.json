@@ -1,0 +1,83 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5C57596-DFAA-4F0F-94EC-8B14C7C1D6CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -498,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "56E68A44-57A4-4918-B759-4E727DE52DE9"
+    },
+    {
+      "class": "artboard",
+      "id": "FF174727-13F3-4579-8EFF-1B615CC8032B"
+    },
+    {
+      "class": "artboard",
+      "id": "BE1A84C6-DFB4-4211-86B3-3C4D664B57B4"
+    },
+    {
+      "class": "artboard",
+      "id": "FAFDB3B1-B7A0-4A51-8C71-044A8D85DDED"
+    },
+    {
+      "class": "artboard",
+      "id": "9029E952-B1A9-4405-8427-541D8927D300"
+    },
+    {
+      "class": "artboard",
+      "id": "449C4DFB-BDB3-4B75-897A-754C90F3FF59"
+    }
+  ],
+  "name": "Buy Flow SmartPhone",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -410,
+    "guides": [
+    ]
+  }
+}

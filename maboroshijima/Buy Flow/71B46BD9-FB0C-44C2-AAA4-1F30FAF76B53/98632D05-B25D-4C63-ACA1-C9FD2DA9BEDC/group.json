@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "98632D05-B25D-4C63-ACA1-C9FD2DA9BEDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 542,
+    "width": 420,
+    "x": 786,
+    "y": 382
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "CB3C0638-6306-4402-8B82-EECBC7037922"
+    },
+    {
+      "class": "text",
+      "id": "ADFA358C-E1FC-46B3-A41D-59206EBA5C48"
+    },
+    {
+      "class": "rectangle",
+      "id": "0B9695FE-0418-46A6-B678-9BC7F9B2D309"
+    },
+    {
+      "class": "group",
+      "id": "2FB94D8D-9B5E-4B48-8C43-692456F36E93"
+    },
+    {
+      "class": "text",
+      "id": "13E02291-3373-4C6B-AF01-7A30F6C51191"
+    },
+    {
+      "class": "text",
+      "id": "DA29ED25-E6A9-44FB-828D-0E9F7C59D82C"
+    },
+    {
+      "class": "rectangle",
+      "id": "ED2A946F-71AE-432D-BFF7-25A0CE3E00BF"
+    },
+    {
+      "class": "text",
+      "id": "41078A4B-429A-400D-8ECF-3E723C134EF8"
+    },
+    {
+      "class": "rectangle",
+      "id": "255AC507-D167-4F5C-8E3C-797CEE9A737C"
+    },
+    {
+      "class": "text",
+      "id": "9297E284-4604-4E41-A96B-E72A17574A53"
+    },
+    {
+      "class": "rectangle",
+      "id": "1A6DF611-56CE-430C-88D1-1FE0FFF075BB"
+    },
+    {
+      "class": "text",
+      "id": "23F81B59-98EF-4047-900C-629FED060B97"
+    },
+    {
+      "class": "rectangle",
+      "id": "7BD98F17-AF82-46D6-A348-1C5715999898"
+    },
+    {
+      "class": "group",
+      "id": "D7CA663F-83C4-40C4-B88C-F46670819633"
+    }
+  ],
+  "name": "新しい住所を使う",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
